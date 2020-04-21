@@ -6,7 +6,7 @@ gcc shellCode.c <br/>
 ./a.out<br/>
 After that  you got<br/> 
 18230$<br/>
-perform operation on a.txt<br/>
+### perform operation on a.txt<br/>
 18230$CountCW a.txt<br/> 
 ##Operations<br/>
 18230$Typeline a.txt<br/>
